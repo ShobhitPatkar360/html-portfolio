@@ -20,3 +20,8 @@ links.forEach((link,i)=>{
     }
   })
 })
+
+
+function live_msg() {
+  alert("Sorry, live hosting is stopped, visit the github repository");
+}
